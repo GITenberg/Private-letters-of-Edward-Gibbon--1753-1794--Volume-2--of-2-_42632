@@ -1,0 +1,42 @@
+_repo: Private-letters-of-Edward-Gibbon--1753-1794--Volume-2--of-2-_42632
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbon, Edward
+    birthdate: 1737
+    deathdate: 1794
+    gutenberg_agent_id: '375'
+    url: http://www.gutenberg.org/2009/agents/375
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Gibbon
+  editor:
+    agent_name: Prothero, Rowland E. (Rowland Edmund), Baron Ernle
+    aliases:
+    - Ernle, Rowland Edmund Prothero, Baron
+    - Ernle, Lord (Rowland Edmund Prothero)
+    - Prothero, Baron Rowland Edmund
+    birthdate: 1851
+    deathdate: 1937
+    gutenberg_agent_id: '3206'
+    url: http://www.gutenberg.org/2009/agents/3206
+    wikipedia: http://en.wikipedia.org/wiki/Rowland_Prothero%2C_1st_Baron_Ernle
+description: ''
+gutenberg_issued: '2013-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Intellectual life -- 18th century'
+- !lcsh 'Scholars -- Great Britain -- Correspondence'
+- !lcsh 'Gibbon, Edward, 1737-1794'
+- !lcsh 'Historians -- Great Britain -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Gibbon, Edward, 1737-1794 -- Correspondence'
+title: Private Letters of Edward Gibbon (1753-1794) Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/42632
